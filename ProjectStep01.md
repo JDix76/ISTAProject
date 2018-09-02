@@ -1,13 +1,21 @@
-Title:Project 1
-Author:James Dix
+Project Inception
 
-My name is James Dix, my passion for computers, and technology came later in life for me. However, solving problems and trying to figure out how to make things easier have always been something loved to do. Like many developers and future developers to come my personal objectives for this project stem from something that I have a passion for or has effected me at some point in my life. 
+Introduction
 
-My personal objectives for this project are to develop an application that can give a person that loves to play basketball the ability to find a pick up game in the current city or city that they might be traveling to in the near future. Features in this project will include creating a membership, building group chat options similar to "Group Me" application, and the ability to update activity while at a current location which would be similar to the "Waze" application.
+Hello, My name is James Dix and my passion for technology stems early in my childhood. Although I would pursue  a career in the medical field as an Emergency Medical Technician. I came to understand that technology exist to the fullest in the Medical medicine and the use of it in everyday life has changed the world. I have always wanted to be on the other end of learning about new technology, meaning I wanted to be on the creation side of producing technology. 
+My personal objectives for my proposed project are to create and application that will be simple, quick and effective per use. This will be a challenge that can be accomplished with research of similar applications and putting together a realistic plan to achieve my objectives.
 
-The first project that I reviewed was and auction system type of application. Ebay was my choice since I have been using is since 2003, in addition to being a member, I also have seen the improvements that have made to make things accessible, the change in functionality of the site and the simplicity of the transition to the mobile application. These are some major take-away that I can incorporate into my project. From personal experience I have taught people how to "Ebay" from just using my phone as demonstration device and they have become comfortable with purchasing merchandise from there.
+Project Review
 
-Another project that I would be interested in doing would to build some application directed towards students in a small groups. Students in a large class room would be to use it as well, but for this situation I'm going use my current situation as and example. Currently my small group is using an application to ask questions, and communicate study hall places and time. My vision would to be have an application specifically designed to be able to attach files, create events and share location with other without scrolling through 23 unread messages.
+The first sample project that I researched was a networking system. LinkedIn. I was really impressed with the layout and functionality of the application. I have become fairly familiar with how LinkedIn works and there website, mobile application are something that I definitely use a reference to in the future. I do not plan on having in paid services on my application, but will I will offer some type of membership upgrade.
 
-In summary after reviewing an already known popular application like Ebay and a project that is a messaging based system similar to Twitter. I can use the take-aways listed be above to confidently say that on paper my objectives can lead to success if  organized correctly. I also know that I have to be ready to accept some failures and unexpected changes to my project when the time comes.
+Project Review
+
+Messaging systems have changed the way we communicate to each other around the world. Skype, FaceTime, and many other applications have added the luxury of video which I have personally benefited from on numerous locations. I do not plan on using any video capability in my application, but I will be incorporating a messaging system that will allow the user to create chat rooms similar to the GroupMe application. The real benefits from exploring these applications was for me to build a mental blueprint of what I want my project to provide. 
+
+
+Conclusion
+
+I think this application will be fun and challenging for me to complete. The entire concept of building something that I have a passion for inspires me to want to build the best application that I can. Although this will be a small sample size of what I plan on my project expanding to, I think that it is not something that I will not be able to accomplish. The challenging aspect of this project will be to create an interface, and writing code in C#, but I am more than willing to learn and face my challenges. 
+
 
